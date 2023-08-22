@@ -1,0 +1,16 @@
+.conteudo__lista{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.lista{
+    background-color: #61677A;
+    border: none;
+    border-radius: 1rem;
+}
+
+.item{
+    margin: 2rem;
+}
