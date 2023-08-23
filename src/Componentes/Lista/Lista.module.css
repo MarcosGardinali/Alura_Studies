@@ -1,0 +1,16 @@
+.conteudo__lista {
+    grid-area: tarefas;
+    height: 100%;
+
+}
+
+h2 {
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+}
+
+.lista {
+    max-height: 350px;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+}
